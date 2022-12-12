@@ -1,0 +1,257 @@
+x=6
+x='jatin'
+x=1.5
+x=print
+
+def show_loading():
+    for i in range(3):
+        print(_)
+        print("loading, "."*(_+1))
+
+show_loading()
+
+a=5
+b=7
+
+print(a+b)
+show_loading()
+
+print(a-b)
+show_loading()
+
+print(a*b)
+show_loading()
+
+def sheldon_konck(name):
+  for_in range(3):
+      print("konck knock knock",name)
+
+sheldon_konck("lenoard")
+
+def sheldon_konck(name, times=3):
+  for_in range(times):
+      print("konck knock knock",name
+      
+ sheldon_konck("penny",100)
+ 
+ 
+ # return Statement
+ def add(a,b):
+    return a+b
+ 
+ a=add(1,2)
+ print(a)
+ 
+ 
+ part==2
+ #keyword arguments
+ 
+ def fune(a,b,c):
+ print(a)
+ print(b)
+ print(c)
+ 
+ fune(1,2,3)
+ print(1,2,3,4,5,sep=",")
+ 
+ 
+ def hello():
+ print("Hello World !")
+ a=1
+ a=hello
+ a()
+ hello=2
+ print(hello)
+ 
+ def func(a,b=10,c):
+ print(a,b,c)
+ 
+ def func(a=1,b=2):
+      print(a,b)
+ func()
+ func(1)
+ func(3,4)
+ 
+ def func(*a):
+    print(a)
+    
+func()
+def func(a,b,*c,d):
+print(a)
+print(b)
+print(c)
+print(d)
+
+func(1,2,3,4,5,6,7,8)
+
+func(1,2,3,4,d="something", e="asdf")
+
+def func(**k):
+    print(k)
+
+func(name = "jatin")
+
+lambda a,b: a+b
+a(1,2)
+
+
+
+part=3
+
+def func():
+    return 1 +4
+a=func
+a()
+
+lambda a, b: a + b
+print("Hello World")
+show=print
+show("something")
+
+int a[] = {1,2,3}
+
+names=["a,b,c,d,e"]
+
+for name in enumerate(names):
+    print(name)
+(0,'a')
+(1,'b')
+(2,'c')
+(3,'d')
+
+
+a=1,2
+print(type(a))
+
+a=5
+b=9
+
+temp=a
+a=b
+b=temp
+
+a=5
+b=9
+a=a+b
+b=a-b
+a=a-b
+print(a,b)
+
+
+type==4
+
+
+a=5
+print("value of a is %f" % (a))
+print("value of a is {}".format(a))
+
+a,b,c,d=1,2,3,4
+
+"a={}, b={} ,c={}".format(a,b,c,d)
+
+name="Riya"
+company="shuttl"
+print(f"name={name}")
+
+len(r*a\nb*)
+
+for cin *a\nb*:
+    print(c)
+    
+    
+    
+type=4
+
+
+
+len([1, 2, 3, 4])
+ 
+"jatin" + "katyal"
+
+[1, 2 . 31 + [4, 5, 6)
+
+[1]*4
+
+a - [1, 2, 3, 4, 5)
+for x in a:
+  print(x) 
+  
+a - [1, 2, 3]
+a.insert(1, 100)
+a- (1, 2, 3, 4]
+a.append?
+
+a - [1, 2, 3]
+a.pop()
+a.pop(2)
+a
+
+
+a =[1, 2 3 , 4]
+(11, 4, 9, 16)
+
+   for i, x in enumerate(a):
+    pass
+def sqr(x):
+    return X**2
+for x in map(lambda x: x**2, a):
+    print(x)
+
+
+type==5
+a=[1,2,3]
+a[0]=100
+a[2]=200
+a
+a=(1,2,3,4)
+type(a)
+def func(*args):
+    print(type(args))
+func(1,2,3,4)
+
+a=5
+b=9
+a,b=b,a
+c=a,b
+type(c)
+
+def sum_diff(a,b):
+    s=a+b
+    b=a-b
+    
+    return s,d
+
+c=sum_diff(10,5)
+type(c)
+
+a=(1,2,3,4)
+list(range(5))
+tuple(range(5))
+
+a=(1,2,3,4)
+a=[1,2,3,4]
+a.append(5)
+a.append(7)
+
+list
+    a=(1,2,3,4)
+    a(0)
+    
+a=[name]
+a="something"
+
+in [82]: a={
+            "name": "Jatin Ktyal"
+            }
+a["name"]= "Gourav"
+a={
+   "name": "Jatin Ktyal"
+   " company="shuttle"
+   }
+a["marks"]
+
+key="marks"
+if key in a:
+   print(a[key])
+else:
+    print("Key does not exist")   
