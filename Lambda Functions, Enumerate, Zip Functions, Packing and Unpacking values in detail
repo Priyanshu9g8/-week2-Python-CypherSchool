@@ -1,0 +1,38 @@
+def func():
+    return 1 +4
+a=func
+a()
+
+lambda a, b: a + b
+print("Hello World")
+show=print
+show("something")
+
+int a[] = {1,2,3}
+
+names=["a,b,c,d,e"]
+
+for name in enumerate(names):
+    print(name)
+(0,'a')
+(1,'b')
+(2,'c')
+(3,'d')
+
+
+a=1,2
+print(type(a))
+
+a=5
+b=9
+
+temp=a
+a=b
+b=temp
+
+a=5
+b=9
+a=a+b
+b=a-b
+a=a-b
+print(a,b)
