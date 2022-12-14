@@ -1,0 +1,43 @@
+x=6
+x='jatin'
+x=1.5
+x=print
+
+def show_loading():
+    for i in range(3):
+        print(_)
+        print("loading, "."*(_+1))
+
+show_loading()
+
+a=5
+b=7
+
+print(a+b)
+show_loading()
+
+print(a-b)
+show_loading()
+
+print(a*b)
+show_loading()
+
+def sheldon_konck(name):
+  for_in range(3):
+      print("konck knock knock",name)
+
+sheldon_konck("lenoard")
+
+def sheldon_konck(name, times=3):
+  for_in range(times):
+      print("konck knock knock",name
+      
+ sheldon_konck("penny",100)
+ 
+ 
+ # return Statement
+ def add(a,b):
+    return a+b
+ 
+ a=add(1,2)
+ print(a)
