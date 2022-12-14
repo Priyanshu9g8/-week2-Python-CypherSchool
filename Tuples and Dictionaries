@@ -1,0 +1,32 @@
+len([1, 2, 3, 4])
+ 
+"jatin" + "katyal"
+
+[1, 2 . 31 + [4, 5, 6)
+
+[1]*4
+
+a - [1, 2, 3, 4, 5)
+for x in a:
+  print(x) 
+  
+a - [1, 2, 3]
+a.insert(1, 100)
+a- (1, 2, 3, 4]
+a.append?
+
+a - [1, 2, 3]
+a.pop()
+a.pop(2)
+a
+
+
+a =[1, 2 3 , 4]
+(11, 4, 9, 16)
+
+   for i, x in enumerate(a):
+    pass
+def sqr(x):
+    return X**2
+for x in map(lambda x: x**2, a):
+    print(x)
