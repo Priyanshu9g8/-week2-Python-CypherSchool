@@ -1,0 +1,33 @@
+student1 = {
+“name”: “Aman",
+marks": 50
+
+student2 = {
+“name”: “Samarth",
+marks": 100
+
+print()
+
+
+class Person:
+pass
+
+P = Person()
+print(p)
+
+hex(id(p))
+
+a=1
+def square(a):
+print (a**2)
+
+with a:
+‘square()
+
+class Person:
+def say_hi(self):
+self.name'= ‘Nikhil’
+print(‘Hello, how are you ' + self.name + °2")
+
+p = Person()
+p-say_hi()
